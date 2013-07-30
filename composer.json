@@ -1,0 +1,12 @@
+{
+    "name": "bazo/multi-oauth",
+    "description": "Multi OAuth for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Bazik",
+            "email": "martin@bazo.sk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
